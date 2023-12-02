@@ -14,11 +14,8 @@
 
 <p align="center">I'm a passionate and aspiring computer engineer based in Palestine. Currently seeking opportunities to start my career and contribute to exciting projects.</p>
 
-<p align="center">Here are some technologies I'm eager to work with:</p>
 
-<div align="center">
-    <p>JavaScript | ReactJS | Node.js</p>
-</div>
+
 
 <p align="center">Let's connect and explore how I can bring my enthusiasm and skills to your team. Feel free to reach out on <a href="https://www.linkedin.com/in/noorshanteer">LinkedIn</a>.</p>
 
