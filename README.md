@@ -22,7 +22,6 @@
 
 <p align="center">🔭 Excited to kickstart my career and make a meaningful impact!</p>
 
-
 <p align="center">Here are some technologies I enjoy working with:</p>
 
 <div align="center">
@@ -30,10 +29,6 @@
     <img src="https://img.shields.io/badge/react-%2320232a?style=flat&logo=react&logoColor=%2361DAFB" alt="ReactJS"/>
     <img src="https://img.shields.io/badge/node.js-%2343853D?style=flat&logo=node.js&logoColor=%23F7DF1E" alt="Node.js"/>
 </div>
-
-<p align="center">Let's connect! Feel free to reach out on <a href="https://www.linkedin.com/in/noorshanteer">LinkedIn</a> to explore collaborations or simply chat about tech and innovation. 🚀</p>
-
-<p align="center">🔭 Currently, I'm contributing to exciting projects and continuously expanding my horizons in the world of computer engineering.</p>
 
 </body>
 </html>
