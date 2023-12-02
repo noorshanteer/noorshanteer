@@ -3,15 +3,25 @@
 
 <body>
 
+
 <h1 align="center">Hi, I'm Noor Shanteer 👋</h1>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/noorshanteer">
-        <img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn - Noor Shanteer"/>
-    </a>
+    <a href="https://www.linkedin.com/in/noorshanteer">Connect with me on LinkedIn</a>
 </div>
 
-<p align="center">Welcome to my GitHub page! I'm Noor Shanteer, a passionate computer engineer based in Palestine. My journey involves crafting technology to uplift people and communities, and I'm always striving to enhance my skills.</p>
+<p align="center">I'm a passionate and aspiring computer engineer based in Palestine. Currently seeking opportunities to start my career and contribute to exciting projects.</p>
+
+<p align="center">Here are some technologies I'm eager to work with:</p>
+
+<div align="center">
+    <p>JavaScript | ReactJS | Node.js</p>
+</div>
+
+<p align="center">Let's connect and explore how I can bring my enthusiasm and skills to your team. Feel free to reach out on <a href="https://www.linkedin.com/in/noorshanteer">LinkedIn</a>.</p>
+
+<p align="center">🔭 Excited to kickstart my career and make a meaningful impact!</p>
+
 
 <p align="center">Here are some technologies I enjoy working with:</p>
 
