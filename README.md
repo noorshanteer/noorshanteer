@@ -4,30 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Noor Shanteer - GitHub</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            background-color: #f5f5f5;
-        }
-        h1 {
-            color: #333;
-        }
-        p {
-            color: #555;
-        }
-        div {
-            margin-top: 20px;
-        }
-        a {
-            text-decoration: none;
-            margin: 0 10px;
-        }
-        img {
-            height: 30px;
-        }
-    </style>
+ 
 </head>
 <body>
 
